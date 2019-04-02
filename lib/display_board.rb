@@ -3,4 +3,5 @@
 
 def display_board(board)
 print board
+board
 end
