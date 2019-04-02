@@ -2,6 +2,5 @@
 # out the current state.
 
 def display_board(board)
-print board
-board
+puts "#{board}"
 end
