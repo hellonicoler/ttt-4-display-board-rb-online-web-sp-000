@@ -2,5 +2,9 @@
 # out the current state.
 board  = ["   |   |   ", "-----------", "   |   |   ", "-----------", "   |   |   "]
 def display_board(board)
-board
+puts "#{0}"
+puts "#{1}"
+puts "#{2}"
+puts "#{3}"
+puts "#{4}"
 end
